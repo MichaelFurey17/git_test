@@ -107,3 +107,8 @@ venv.bak/
 .ipynb_checkpoints/
 python/DS_Store
 .DS_Store
+documentation_resources/.DS_Store
+documentation_resources/schemas/.DS_Store
+load_scripts/.DS_Store
+
+data/
